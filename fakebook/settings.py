@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-lk%=)-(+$fzy_8&+3kk@0y$ujq$2_us^z*5%5via45!o3s_gml
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://fakecebook.herokuapp.com/]
 
 
 # Application definition
