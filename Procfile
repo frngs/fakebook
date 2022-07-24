@@ -1,1 +1,1 @@
-web: gunicorn fakebook.wsgi
+web: gunicorn main.wsgi
