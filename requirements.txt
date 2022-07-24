@@ -1,5 +1,4 @@
 Django
 Pillow
 gunicorn
-pycopg2
 pyTelegramBotAPI
